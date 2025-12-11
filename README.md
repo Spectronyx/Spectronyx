@@ -1,4 +1,4 @@
-# 👋 Hey, I'm RJ
+# 👋 Hey, I'm Rajneesh Sharma
 
 🎓 **Computer Science Student | 💻 Engineer | 🤖 Machine Learning Enthusiast**
 
