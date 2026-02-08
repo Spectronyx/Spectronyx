@@ -12,7 +12,7 @@ This is where I keep a little bit about who I am, what I do, and what I love bui
 - ⚙️ Experienced in **C, C++, Java, Python, and JavaScript**
 - 🌱 Currently learning **Advanced DSA** and **Full Stack Development**
 - 🧩 Enjoy building **interactive, practical projects** that solve real problems
-- 🧰 Favorite tools: VS Code, Linux (Arch btw 🐧), Git, and Replit
+- 🧰 Favorite tools: VS Code, Linux (Arch btw 🐧), Git, and Postman,Obsidian
 
 ---
 
